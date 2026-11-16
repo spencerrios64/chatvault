@@ -1,0 +1,13 @@
+{
+  "name": "chatvault",
+  "owner": {
+    "name": "spencerrios64"
+  },
+  "plugins": [
+    {
+      "name": "chatvault",
+      "source": "./plugin",
+      "description": "Keep a searchable local archive of your Claude and ChatGPT chat exports, and export them as fine-tuning data."
+    }
+  ]
+}
