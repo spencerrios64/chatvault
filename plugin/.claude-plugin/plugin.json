@@ -1,0 +1,9 @@
+{
+  "name": "chatvault",
+  "version": "0.1.0",
+  "description": "Keep a searchable local archive of your Claude and ChatGPT chat exports, and export them as fine-tuning data.",
+  "author": { "name": "spencerrios64" },
+  "homepage": "https://spencerrios64.github.io/chatvault/",
+  "repository": "https://github.com/spencerrios64/chatvault",
+  "keywords": ["chat history", "archive", "search", "export", "fine-tuning"]
+}
